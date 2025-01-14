@@ -116,7 +116,7 @@ To assist the insurance industry in:
 ## 📂 **Resources**
 **Author**: Gopinath
 
-<a href='https://docs.google.com/presentation/d/1MvP1pIoIaxzdxYTH1u0uyGLRNs--rqLeK3BAWhTf4DY/edit?usp=drive_link'><img src="https://img.icons8.com/color/64/000000/google-slides.png" alt="Project PPT" width="30"></a> [![Project PPT](https://img.shields.io/badge/Project-PPT-yellow)](https://docs.google.com/presentation/d/1MvP1pIoIaxzdxYTH1u0uyGLRNs--rqLeK3BAWhTf4DY/edit?usp=drive_link)
+<a href='https://docs.google.com/presentation/d/1cywOm7TxIEizpJLD8Oh3JQd0fopLEtb504lskw_B_6U/edit#slide=id.g1f87997393_0_782'><img src="https://img.icons8.com/color/64/000000/google-slides.png" alt="Project PPT" width="30"></a> [![Project PPT](https://docs.google.com/presentation/d/1cywOm7TxIEizpJLD8Oh3JQd0fopLEtb504lskw_B_6U/edit#slide=id.g1f87997393_0_782)
 
 <a href='#'><img src="https://img.icons8.com/fluency/64/000000/video.png" alt="Project Video" width="30"></a> [![Project Video](https://img.shields.io/badge/Project-Video-red)](#)
 
